@@ -11,6 +11,12 @@
       "text": "Dentist Appt",
       "day": "Feb 5th at 3:30 PM",
       "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Friday",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
